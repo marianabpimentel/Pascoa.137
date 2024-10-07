@@ -1,0 +1,18 @@
+{
+  "id": 1374420004,
+  "category": {
+    "id": 1,
+    "name": "mingau"
+  },
+  "name": "mingau",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "castrado"
+    }
+  ],
+  "status": "disponivel"
+}
